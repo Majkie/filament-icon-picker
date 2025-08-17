@@ -1,5 +1,5 @@
 {
-  "name": "guava/filament-icon-picker",
+  "name": "majkie/filament-icon-picker",
   "description": "A filament plugin that adds an icon picker field.",
   "type": "library",
   "license": "MIT",
@@ -7,6 +7,10 @@
     {
       "name": "Lukas Frey",
       "email": "mail@lukasfrey.cz"
+    },
+    {
+      "name": "Mikulas Tros",
+      "email": "m.tros@penterep.com"
     }
   ],
   "autoload": {
